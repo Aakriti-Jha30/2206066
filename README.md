@@ -7,4 +7,4 @@
 
 Challenges Faced & Resolved
 ->CORS Issue: Required debugging and proper middleware setup
-->Fetching Data: Used Node Fetch, but backend control could be optimized in the future
+->Fetching Data: Used Node Fetch(postman was not working some problem in application runnning in my laptop this I had to think of an alternative to test and study apis), so backend control could be optimized in the future
